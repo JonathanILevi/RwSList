@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+rwllist.so
+rwllist.dylib
+rwllist.dll
+rwllist.a
+rwllist.lib
+rwllist-test-*
+*.exe
+*.o
+*.obj
+*.lst
+
+\.vs/

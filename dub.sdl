@@ -1,0 +1,8 @@
+name "rwslist"
+description "Read-Write Mutexed Singly Linked Lists. Individually locks each node in the list allowing many threads to access the list at once."
+authors "Jonathan Levi"
+copyright "Copyright © 2018, Jonathan Levi"
+license "CC0"
+dependency "cst" version="~>1.0.4"
+dependency "llist" version="~>2.0.0"
+targetType "library"
